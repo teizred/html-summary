@@ -1,0 +1,35 @@
+.sheet {
+    background-color: #f5f6fa;
+    color: #222222;
+    text-align: center;
+}
+
+.sheet img {
+    margin: auto;
+    border: 3px solid #e5e5e5;
+    display: block;
+}
+
+li {
+    text-align: center;
+    list-style-position: inside;
+    color: #222222;
+}
+
+a {
+    color: #bfa14a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1a2236;
+}
+
+h1 {
+    color: #1a2236;
+}
+h2 {
+    color: #bfa14a;
+}
+
